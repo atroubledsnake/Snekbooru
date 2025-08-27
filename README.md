@@ -38,7 +38,7 @@ A feature-rich desktop application for browsing and managing content from variou
 
 ## Download
 Windows only for now
-- Link: [WIN_Snekbooru_Installer_x64](https://drive.google.com/file/d/1yoqyKoI1vx05ywaaWoX8Wn2tITpFGcUI/view?usp=sharing)
+- Link: [WIN_Snekbooru_Installer_x64](https://drive.google.com/file/d/1AWgvgbBhElJflJGtyK-yOEXk00_o1HBZ/view?usp=sharing)
 
 ## Installation
 
@@ -63,9 +63,9 @@ Windows only for now
 
 ### Getting API Keys
 
-- **Gelbooru**: Available with Gelbooru account subscription
-- **Danbooru**: Available with Gold or higher account
-- **Rule34**: Available to registered users
+- **Gelbooru**: Available with [Gelbooru account](https://gelbooru.com/index.php?page=account&s=reg)
+- **Danbooru**: Available with [Danbooru account](https://danbooru.donmai.us/users/new)
+- **Rule34**: Available with [Rule34 account](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiBnqiH1KuPAxUrEhAIHQ4mIeoQFnoECAoQAQ&url=https%3A%2F%2Frule34.xxx%2Findex.php%3Fpage%3Daccount%26s%3Dreg&usg=AOvVaw3TBT0l81tteZ1h8o6JIaHA&opi=89978449)
 
 The application works without API keys but may have reduced functionality or rate limits.
 
@@ -130,8 +130,11 @@ The application works without API keys but may have reduced functionality or rat
 
 For bug reports and support, please contact:
 - Creator: atroubledsnake
-- Developer: pathetic.dev (Discord)
+- Developer: pathetic.dev (Discord) - [Portfolio](https://pathetic.dev)
 
+## Changelog
+### Version 4.6.1
+  - Fixed major bug causing crashes after searching for a second time.
 ## Credits
 
 - Creator: atroubledsnake
@@ -139,4 +142,5 @@ For bug reports and support, please contact:
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
+
 
