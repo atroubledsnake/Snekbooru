@@ -36,6 +36,10 @@ A feature-rich desktop application for browsing and managing content from variou
     - Missing Tag
     - Guess the Score
 
+## Download
+Windows only for now
+- Link: [WIN_Snekbooru_Installer_x64](https://drive.google.com/file/d/1yoqyKoI1vx05ywaaWoX8Wn2tITpFGcUI/view?usp=sharing)
+
 ## Installation
 
 1. Run the Snekbooru installer (WIN_Snekbooru_Installer_x64.exe)
@@ -135,3 +139,4 @@ For bug reports and support, please contact:
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
+
