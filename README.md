@@ -81,7 +81,7 @@ The application works without API keys but may have reduced functionality or rat
 - Bulk download: Ctrl/Shift+Click thumbnails and use "Download Selected"
 
 ### Favorites
-- Add/remove favorites via the star button or right-click menu
+- Add/remove favorites via the star button
 - View all favorites in the Favorites tab
 - Recommendations improve based on your favorites
 
@@ -148,6 +148,7 @@ For bug reports and support, please contact:
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
+
 
 
 
