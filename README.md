@@ -38,7 +38,7 @@ A feature-rich desktop application for browsing and managing content from variou
 
 ## Download
 Windows only for now
-- Link: [WIN_Snekbooru_Installer_x64](https://drive.google.com/file/d/1MR00mOPWaGud0txIRTeo6cQSJ--xZhzg/view?usp=sharing)
+- Link: [WIN_Snekbooru_Installer_x64](https://drive.google.com/file/d/1cOa4SQlRNNPzBu6sOHmfjjIci_4YTNAn/view?usp=sharing)
 
 ## Installation
 
@@ -133,6 +133,10 @@ For bug reports and support, please contact:
 - Developer: pathetic.dev (Discord) - [Portfolio](https://pathetic.dev)
 
 ## Changelog
+### Release Version 4.8
+  - Fixed major bug causing frequent crashes in the video player.
+  - Added more and improved video and sound controls.
+  - Upgraded the recommendations robot.
 ### Release Version 4.7.4
   - Multiprocessing implemented in order to stop app from crashing if a media causes VLC to crash.
 ### Release Version 4.6.1
@@ -144,6 +148,7 @@ For bug reports and support, please contact:
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
+
 
 
 
