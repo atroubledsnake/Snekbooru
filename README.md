@@ -143,11 +143,12 @@ For bug reports and support, please contact:
   - Fixed major bug causing crashes after searching for a second time.
 ## Credits
 
-- Creator: atroubledsnake
+- Creator & Developer: atroubledsnake
 - Developer: pathetic.dev
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
+
 
 
 
