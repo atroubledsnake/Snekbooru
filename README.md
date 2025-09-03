@@ -2,6 +2,10 @@
 
 A feature-rich desktop application for browsing and managing content from various image boards.
 
+## Disclaimers
+  **THIS IS NOT A WRAPPER FOR THE PyPi PROJECT [Snakebooru](https://pypi.org/project/snakebooru)**
+  **THIS PROJECT IS SOURCE CLOSED, FOR MORE INFORMATION AND INQUIERIES PLEASE CONTACT THE CREATOR AND DEVELOPER atroubledsnake**
+
 ## Features
 
 - **Multi-Source Support**: Browse content from multiple sources:
@@ -148,6 +152,7 @@ For bug reports and support, please contact:
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
+
 
 
 
