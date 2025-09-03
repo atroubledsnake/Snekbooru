@@ -42,7 +42,7 @@ A feature-rich desktop application for browsing and managing content from variou
 
 ## Download
 Windows only for now
-- Link: [WIN_Snekbooru_Installer_x64](https://drive.google.com/file/d/1cOa4SQlRNNPzBu6sOHmfjjIci_4YTNAn/view?usp=sharing)
+- Link: [WIN_Snekbooru_Installer_x64](https://github.com/atroubledsnake/Snekbooru/releases/tag/v4.8)
 
 ## Installation
 
@@ -152,6 +152,7 @@ For bug reports and support, please contact:
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
+
 
 
 
