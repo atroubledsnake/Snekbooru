@@ -137,6 +137,14 @@ For bug reports and support, please contact:
 - Developer: pathetic.dev (Discord) - [Portfolio](https://pathetic.dev)
 
 ## Changelog
+### Release version 4.8.7
+  - Added custom styling using sCSS (documentation provided in settings)
+  - Added support for multiple languages
+  - New logo and improved scraping
+  - Added incognito mode
+  - Added a section for adding your own api
+  - Improved the recommendations bot even further
+  - Fixed multiple visual bugs
 ### Release Version 4.8
   - Fixed major bug causing frequent crashes in the video player.
   - Added more and improved video and sound controls.
@@ -152,6 +160,7 @@ For bug reports and support, please contact:
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
+
 
 
 
