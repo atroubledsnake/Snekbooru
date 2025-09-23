@@ -5,7 +5,7 @@ A feature-rich desktop application for browsing and managing content from variou
 ## Disclaimers
   - **THIS IS NOT A WRAPPER FOR THE PyPi PROJECT [Snakebooru](https://pypi.org/project/snakebooru)**
   - **THIS PROJECT IS SOURCE CLOSED, FOR MORE INFORMATION AND INQUIERIES PLEASE CONTACT THE CREATOR AND DEVELOPER atroubledsnake**
-
+  - **THIS APP DOES NOT POSSES A CODING LICENSE, DUE TO THIS WINDOWS DEFENDER WILL TRY TO BLOCK IT**
 ## Features
 
 ### Content & Sources
@@ -44,7 +44,7 @@ A feature-rich desktop application for browsing and managing content from variou
 
 ## Download
 Windows only for now
-- Link: [WIN_Snekbooru_Installer_x64](https://github.com/atroubledsnake/Snekbooru/releases/download/v4.9.4/WIN_Snekbooru_Installer_x64.exe)
+- Link: [WIN_Snekbooru_Installer_x64](https://github.com/atroubledsnake/Snekbooru/releases/tag/v5.0.0)
 
 ## Installation
 
@@ -157,6 +157,18 @@ For bug reports, feature requests, and community discussion, please join our Dis
 - Developer: pathetic.dev (Discord) - [Portfolio](https://pathetic.dev)
 
 ## Changelog
+### Release Version 5.0.0
+  - Overhauled the **AI Chat Assistant**:
+    - Implemented response streaming for faster, more interactive conversations.
+    - Added support for multiple, renameable chat tabs to organize conversations.
+    - Introduced customizable AI Presets to easily switch between different AI models, names, and personalities.
+  - Added a **Hotkeys** tab in Settings, allowing for full customization of application keyboard shortcuts.
+  - Added a "Go to Page" input field for direct page navigation in the browser.
+  - Changed settings layout for a more user-friendly experience.
+    - Added special toggles to quickly blacklist harmful content.
+    - Grouped all API keys into one singular tab for ease of use.
+    - Fixed bugs involved with styling the settings tab.
+  - General stability improvements and major bug fixes.
 ### Release Version 4.9.4
   - Added AI Chat Assistant with advanced personalization options.
   - Added Reverse Image Search tab with support for SauceNAO, IQDB, and Google Lens.
