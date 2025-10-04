@@ -5,7 +5,7 @@ A feature-rich desktop application for browsing and managing content from variou
 ## Disclaimers
   - **THIS IS NOT A WRAPPER FOR THE PyPi PROJECT [Snakebooru](https://pypi.org/project/snakebooru)**
   - **THIS PROJECT IS SOURCE CLOSED, FOR MORE INFORMATION AND INQUIERIES PLEASE CONTACT THE CREATOR AND DEVELOPER atroubledsnake**
-  - **THIS APP DOES NOT POSSES A CODING LICENSE, DUE TO THIS WINDOWS DEFENDER WILL TRY TO BLOCK IT**
+
 ## Features
 
 ### Content & Sources
@@ -44,7 +44,7 @@ A feature-rich desktop application for browsing and managing content from variou
 
 ## Download
 Windows only for now
-- Link: [WIN_Snekbooru_Installer_x64](https://github.com/atroubledsnake/Snekbooru/releases/download/V5.0.0/WIN_Snekbooru_Installer_x64.exe)
+- Link: [WIN_Snekbooru_Installer_x64](https://github.com/atroubledsnake/Snekbooru/releases/download/v5.0.2/WIN_Snekbooru_Installer_x64.exe)
 
 ## Installation
 
@@ -154,9 +154,18 @@ You can add other booru-style websites to the application.
 For bug reports, feature requests, and community discussion, please join our Discord server or contact the developers.
 - **Discord**: https://discord.gg/BqNxn7ftqn
 - Creator: atroubledsnake
-- Developer: pathetic.dev (Discord) - [Portfolio](https://pathetic.dev)
+- Contributors: pathetic.dev (Discord) - [Portfolio](https://pathetic.dev), 69st (Discord), 572.labman (nikolai.lol) (Discord)
 
 ## Changelog
+### Release Version 5.0.2
+- Introduced a better way to choose sources (via checkboxes) - this now allows mixing different sources instead of all or just one.
+- Refactored the downloads tab:
+    - Added tag saving
+    - introduced thumbnail viewing.
+- Refactored favorites tab:
+    - Added categories/catalogues.
+    - Changed the positioning and size of the post inspector.
+- Minor stability improvements.
 ### Release Version 5.0.0
   - Overhauled the **AI Chat Assistant**:
     - Implemented response streaming for faster, more interactive conversations.
@@ -198,4 +207,3 @@ For bug reports, feature requests, and community discussion, please join our Dis
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
-
