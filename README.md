@@ -5,12 +5,13 @@ A feature-rich desktop application for browsing and managing content from variou
 ## Disclaimers
   - **THIS IS NOT A WRAPPER FOR THE PyPi PROJECT [Snakebooru](https://pypi.org/project/snakebooru)**
   - **THIS PROJECT IS SOURCE CLOSED, FOR MORE INFORMATION AND INQUIERIES PLEASE CONTACT THE CREATOR AND DEVELOPER atroubledsnake**
+  - **PROJECT MAY CAUSE WINDOWS DEFENDER OR OYUR ANTIVIRUS TO BLOCK YOUR APP DURING INSTALL OR RUNNING, THIS IS BECAUSE OF THE FACT WE DO NOT POSSES A CODE SIGNING LISCENCE AND OBFUSCATION TECHNIQUES USED TO KEEP THE SOURCE CODE SECURE**
 
 ## Features
 
 ### Content & Sources
 - **Multi-Source Support**: Browse content from multiple built-in sources:
-  - Gelbooru, Danbooru, Konachan, Yandere, Rule34, Hypnohub, Waifu.pics
+  - Gelbooru, Danbooru, Konachan, Yandere, Rule34, Hypnohub, Waifu.pics, Zerochan
 - **Combined Search**: Search across all sources simultaneously for a massive content pool.
 - **Custom Sources**: Add your own favorite booru sites to the application.
 
@@ -44,7 +45,7 @@ A feature-rich desktop application for browsing and managing content from variou
 
 ## Download
 Windows only for now
-- Link: [WIN_Snekbooru_Installer_x64](https://github.com/atroubledsnake/Snekbooru/releases/download/v5.0.2/WIN_Snekbooru_Installer_x64.exe)
+- Link: [WIN_Snekbooru_Installer_x64](https://github.com/atroubledsnake/Snekbooru/releases/download/v5.0.3/WIN_Snekbooru_Installer_x64.exe)
 
 ## Installation
 
@@ -157,6 +158,10 @@ For bug reports, feature requests, and community discussion, please join our Dis
 - Contributors: pathetic.dev (Discord) - [Portfolio](https://pathetic.dev), 69st (Discord), 572.labman (nikolai.lol) (Discord)
 
 ## Changelog
+### Release Version 5.0.3
+- Fixed multiple bugs in the minigames tab and made all the minigames actually playable and enjoyable again.
+- Multiple changes introduced to the donwloads tab allowing for local media import and minor bugfixes.
+- Fixed random posts showing up only from Gelbooru.
 ### Release Version 5.0.2
 - Introduced a better way to choose sources (via checkboxes) - this now allows mixing different sources instead of all or just one.
 - Refactored the downloads tab:
@@ -207,3 +212,4 @@ For bug reports, feature requests, and community discussion, please join our Dis
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
+
