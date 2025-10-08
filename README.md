@@ -81,7 +81,7 @@ The application works without API keys but may have reduced functionality or be 
 ## Basic Usage
 
 ### Searching
-1. Select your preferred source from the dropdown menu in Settings.
+1. Select your preferred source from the sources tab in Settings.
 2. Enter tags in the search box (e.g., "cat_ears rating:safe").
 3. Click "Search" or press Enter.
 
@@ -120,7 +120,7 @@ You can add other booru-style websites to the application.
 2. Click "New" to open the Booru Editor.
 3. Use the "Simple" mode for common booru types (Gelbooru, Danbooru, Rule34) by just providing a name and URL.
 4. Use the "Advanced" mode for full control over API endpoints for unsupported site types.
-5. Test your configuration before saving. Your new source will appear in the source dropdown in Settings.
+5. Test your configuration before saving. Your new source will appear in the sources tab in Settings.
 
 ## Troubleshooting
 
@@ -212,4 +212,5 @@ For bug reports, feature requests, and community discussion, please join our Dis
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
+
 
