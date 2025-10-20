@@ -1,6 +1,4 @@
-# Snekbooru
-
-A feature-rich desktop application for browsing and managing content from various image boards.
+# Snakebooru
 
 ## Disclaimers
   - **THIS IS NOT A WRAPPER FOR THE PyPi PROJECT [Snakebooru](https://pypi.org/project/snakebooru)**
@@ -19,6 +17,7 @@ A feature-rich desktop application for browsing and managing content from variou
 - **Rich Media Handling**: View both images and videos seamlessly.
 - **Full-Screen Viewer**: An immersive, multi-process media viewer with zoom and video controls that won't freeze the app.
 - **Efficient GIF Handling**: GIFs are converted to WebP on the fly for smoother playback.
+- **Manga Reader**: A dedicated tab for searching and reading manga from various online sources, complete with an integrated ad-blocker.
 - **Automatic Video Support**: Plays most video formats automatically (requires VLC Media Player).
 
 ### Search & Organization
@@ -45,7 +44,7 @@ A feature-rich desktop application for browsing and managing content from variou
 
 ## Download
 Windows only for now
-- Link: [WIN_Snekbooru_Installer_x64](https://github.com/atroubledsnake/Snekbooru/releases/download/v5.0.3/WIN_Snekbooru_Installer_x64.exe)
+- Link: [WIN_Snekbooru_Installer_x64](https://github.com/atroubledsnake/Snekbooru/releases/download/v5.0.5/WIN_Snekbooru_Installer_x64.exe)
 
 ## Installation
 
@@ -155,9 +154,13 @@ You can add other booru-style websites to the application.
 For bug reports, feature requests, and community discussion, please join our Discord server or contact the developers.
 - **Discord**: https://discord.gg/BqNxn7ftqn
 - Creator: atroubledsnake
-- Contributors: pathetic.dev (Discord) - [Portfolio](https://pathetic.dev), 69st (Discord), 572.labman (nikolai.lol) (Discord)
+- Contributors: pathetic.dev (Discord) - [Portfolio](https://pathetic.dev), 69st (Discord), 572.lambman (nikolai.lol) (Discord)
 
 ## Changelog
+### Release Version 5.0.5
+- Significantly improved the UI of the Manga tab by organizing controls into logical groups for a cleaner and more intuitive layout.
+- Fixed an issue where the Browser tab's background color would not update correctly when changing application themes.
+- Added a new Manga Reader feature that allows you to view manga from Nhentai and Mangadex.
 ### Release Version 5.0.3
 - Fixed multiple bugs in the minigames tab and made all the minigames actually playable and enjoyable again.
 - Multiple changes introduced to the donwloads tab allowing for local media import and minor bugfixes.
@@ -212,5 +215,3 @@ For bug reports, feature requests, and community discussion, please join our Dis
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
-
-
