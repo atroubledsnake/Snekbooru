@@ -161,6 +161,8 @@ For bug reports, feature requests, and community discussion, please join our Dis
 - Contributors: pathetic.dev (Discord) - [Portfolio](https://pathetic.dev), 69st (Discord), 572.lambman (nikolai.lol) (Discord)
 
 ## Changelog
+### Release Version 5.0.8 Patch
+- Fixed issue with settings crashing the app on saving (I still have no idea how I let such a big error happen and how I let it into prod)
 ### Release Version 5.0.8
 - **Video Playback Overhaul**: 
   - Switched from custom implementations to PyQt5's native QMediaPlayer for stability and reliability
@@ -241,5 +243,6 @@ For bug reports, feature requests, and community discussion, please join our Dis
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
+
 
 
