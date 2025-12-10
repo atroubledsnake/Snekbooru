@@ -1,3 +1,7 @@
+# IMPORTANT NOTICE
+### This README is still maintained, however it is recommended
+that you go to https://snekbooru.org/ for more information regarding this project.
+
 # Snakebooru
 
 ## Disclaimers
@@ -157,6 +161,28 @@ For bug reports, feature requests, and community discussion, please join our Dis
 - Contributors: pathetic.dev (Discord) - [Portfolio](https://pathetic.dev), 69st (Discord), 572.lambman (nikolai.lol) (Discord)
 
 ## Changelog
+### Release Version 5.0.8
+- **Video Playback Overhaul**: 
+  - Switched from custom implementations to PyQt5's native QMediaPlayer for stability and reliability
+  - Eliminated ffmpeg threading issues that were causing assertion errors
+  - Added comprehensive video controls (Play/Pause, Seek, Volume, Skip)
+- **Audio Improvements**: 
+  - Native audio playback with volume control
+  - Proper audio sync through Qt's multimedia engine
+- **Tag Suggestion System**:
+  - Auto-complete tag suggestions as you type (minimum 2 characters)
+  - Manual tag suggestion dialog with visual selection
+- **Hentai Tab**: 
+  - New dedicated tab for hentai content with optimized browsing and discovery features
+- **Custom Sources**: 
+  - Brought back the ability to add and manage custom booru sources
+  - Simple mode for common booru types and advanced mode for full API customization
+- **Comprehensive Language Support**:
+  - Updated all 12 language packs with complete translations for video controls, tag suggestions, and new features
+  - Supported languages: German, Spanish, French, Croatian, Hindi, Japanese, Polish, Portuguese (Brazil & Portugal), Russian, Chinese (Simplified & Traditional)
+- **Performance Improvements**:
+  - Better memory management in media viewer
+  - Optimized tag suggestion fetching with background workers
 ### Release Version 5.0.5
 - Significantly improved the UI of the Manga tab by organizing controls into logical groups for a cleaner and more intuitive layout.
 - Fixed an issue where the Browser tab's background color would not update correctly when changing application themes.
@@ -215,3 +241,4 @@ For bug reports, feature requests, and community discussion, please join our Dis
 - Testers & Idea Contributors: 69st and nikolailol
 
 Special thanks to all users who provided feedback and suggestions!
+
